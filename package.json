@@ -4,6 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "socket.io": "4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": "git@github.com:KacperKosicki/websocket-chat.git",
+  "author": "Kacper Kosicki <kosickikacper1@gmail.com>"
 }
